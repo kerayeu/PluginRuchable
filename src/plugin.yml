@@ -1,0 +1,4 @@
+name: Ruchanie
+main: eu.keray.PluginRuchanie
+version: 1.7
+api-version: 1.17
